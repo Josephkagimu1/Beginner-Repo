@@ -2,7 +2,7 @@
 
 Format 
 
-## [Name](GitHub profile link)
+## [Joseph Kagimu](https://github.com/Josephkagimu1?tab=overview&from=2023-05-01&to=2023-05-08)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
